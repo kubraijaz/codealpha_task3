@@ -1,8 +1,5 @@
 # Basic Chatbot 🤖  
 
-## *Heading 1: Repository Name*  
-**kubraijaz/codealpha_task3**  
-
 ## *Description*  
 This repository contains a **Basic Chatbot** that interacts with users using predefined responses and basic NLP techniques.  
 
